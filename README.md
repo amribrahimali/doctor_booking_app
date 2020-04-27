@@ -1,6 +1,6 @@
-# doctorbookingapp
+# doctor_booking_app
 
-A new Flutter application.
+Simple App to Show and Search for Best Doctor and Book your seat.
 
 ## Getting Started
 
